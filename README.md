@@ -10,19 +10,10 @@ Collaboration, effective problem solving, and continuous learning are the values
 - 🌱 I’m currently learning different tools in Data Science
 
 Connect with me:
-LinkedIn | Telegram
+Telegram: @AnastasiaSee
+Email: anastasiav.sergeeva@gmail.com
 
-
-Languages and Tools:
-Python
-
-SQL
-
-MySQL
-
-Git
-
-GitHub
+Languages and Tools: Python, SQL, MySQL, Git, GitHub
 
 
 
