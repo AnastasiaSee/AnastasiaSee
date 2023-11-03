@@ -9,6 +9,24 @@ Collaboration, effective problem solving, and continuous learning are the values
 - 👀 I’m interested in internship in a large international company
 - 🌱 I’m currently learning different tools in Data Science
 
+Connect with me:
+LinkedIn | Telegram
+
+
+Languages and Tools:
+Python
+
+SQL
+
+MySQL
+
+Git
+
+GitHub
+
+
+
+
 <!---
 AnastasiaSee/AnastasiaSee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
