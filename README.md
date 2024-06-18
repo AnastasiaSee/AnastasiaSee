@@ -6,7 +6,7 @@ I am currently seeking opportunities to further develop my skills in product man
 
 Collaboration, effective problem solving, and continuous learning are the values that drive my professional journey. I am always eager to connect with like-minded professionals who are passionate about their work.
 
-- 👀 I’m interested in internship in a large international company
+- 👀 I’m interested in internship in a international company
 - 🌱 I’m currently learning different tools in Data Science
 
 Connect with me:
