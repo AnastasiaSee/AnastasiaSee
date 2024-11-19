@@ -1,6 +1,6 @@
 👋 Hi, I’m Anastasia Ermolova - @AnastasiaSee
 
-IDedicated professional with over 2 years of experience in Data Analytics and Machine Learning, combined with 10 years of international expertise in Chemical Engineering, Project Management, Business Development within the Petrochemical and Chemical industries. My expertise in extracting actionable insights from complex data sets has led to increase in operational efficiency and reduction in costs in previous high-tech projects. Proficient in Python, SQL, Power BI. 
+I am dedicated professional with over 2 years of experience in Data Analytics and Machine Learning, combined with 10 years of international expertise in Chemical Engineering, Project Management, Business Development within the Petrochemical and Chemical industries. My expertise in extracting actionable insights from complex data sets has led to increase in operational efficiency and reduction in costs in previous high-tech projects. Proficient in Python, SQL, Power BI. 
 
 I am currently seeking opportunities to further develop my skills in Data Science.
 
