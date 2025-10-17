@@ -11,7 +11,7 @@ Collaboration, effective problem solving, and continuous learning are the values
 
 Connect with me:
 Telegram: @AnastasiaSee
-Email: anastasiav.sergeeva@gmail.com
+Email: sia.ermolova@gmail.com
 
 Languages and Tools: Python, SQL, MySQL, Git, GitHub
 
